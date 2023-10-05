@@ -1,0 +1,5 @@
+{
+    "require": {
+        "smalot/sendmail-smtp": "^0.2.0"
+    }
+}
